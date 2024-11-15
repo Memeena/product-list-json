@@ -1,6 +1,8 @@
 export default function App() {
   return (
-    <>{`{
+    <>
+      <p>App data</p>
+      {`{
   "menu": [
     {
       "image": {
@@ -103,6 +105,7 @@ export default function App() {
     }
   ]
 }
-`}</>
+`}
+    </>
   );
 }
