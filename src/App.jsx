@@ -1,4 +1,5 @@
 export default function App() {
+  console.log('data');
   return (
     <>
       <p>App data</p>
