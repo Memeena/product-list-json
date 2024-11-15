@@ -1,8 +1,7 @@
 export default function App() {
-  console.log('data');
+  console.log("data");
   return (
     <>
-      <p>App data</p>
       {`{
   "menu": [
     {
