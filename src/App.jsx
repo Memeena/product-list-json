@@ -1,6 +1,6 @@
 export default function App() {
   return (
-    <div>{`{
+    <>{`{
   "menu": [
     {
       "image": {
@@ -103,6 +103,6 @@ export default function App() {
     }
   ]
 }
-`}</div>
+`}</>
   );
 }
